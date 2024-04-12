@@ -1,0 +1,22 @@
+body {
+    background-color: #bababa;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.btn-submit {
+    cursor: pointer;
+}
